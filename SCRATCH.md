@@ -1,5 +1,8 @@
 # Wanna to create from scratch? #
 
+## Prepare MongoDB ##
+[Read here](MONGODB.md)
+
 ## Create NodeJS directory ##
 Run in command-line or shell:
 
@@ -40,7 +43,9 @@ before
 
     "author": "TODO",
 
-line, save file and exit from editor.
+line, save file and exit from editor or just run
+
+    npm install mongodb --save
 
 ## TODO ##
 TODO
