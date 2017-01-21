@@ -1,4 +1,4 @@
-# MongoDB #
+# Prepare MongoDB #
 
 ## Install ##
 TODO
