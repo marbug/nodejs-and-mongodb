@@ -26,6 +26,10 @@ Run the following in command-line/shell:
 
     mongod --help
 
+For example, if you wanna run server without auth, please run:
+
+    mongod --noauth
+
 ## Connect to MongoDB server ##
 On Windows OS run the following in command line:
 
