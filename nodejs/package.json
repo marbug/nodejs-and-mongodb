@@ -1,6 +1,6 @@
 {
   "name": "nodejs-and-mongodb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Play with Node.js and MongoDB",
   "main": "index.js",
   "scripts": {
