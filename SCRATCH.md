@@ -75,5 +75,9 @@ Run in command-line/shell
 
     node app.js
 
+After this the following line should be shown
+
+    Connected correctly to server
+
 ## TODO ##
 TODO
