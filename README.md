@@ -19,6 +19,7 @@ TODO :)
 
 ## Useful Links ##
 [The official MongoDB driver for Node.js](https://www.npmjs.com/package/mongodb)
+[Install MongoDB on Windows](https://docs.mongodb.com/getting-started/shell/tutorial/install-mongodb-on-windows/)
 
 ## License ##
 [Read here](LICENSE)
