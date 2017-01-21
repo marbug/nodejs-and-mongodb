@@ -29,5 +29,18 @@ Is this ok?     | yes
 
 As result the [package.json](nodejs/package.json) file will be created.
 
+## Add dependencies to package.json ##
+Edit [package.json](nodejs/package.json) file, add the following lines
+
+    "dependencies": {
+      "mongodb": "~2.0"
+    },
+
+before
+
+    "author": "TODO",
+
+line, save file and exit from editor.
+
 ## TODO ##
 TODO

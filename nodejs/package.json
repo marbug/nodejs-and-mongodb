@@ -1,6 +1,6 @@
 {
   "name": "nodejs-and-mongodb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Play with Node.js and MongoDB",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,9 @@
   "keywords": [
     "TODO"
   ],
+  "dependencies": {
+    "mongodb": "~2.0"
+  },
   "author": "TODO",
   "license": "MIT"
 }
