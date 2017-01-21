@@ -32,7 +32,7 @@ Is this ok?     | yes
 
 As result the [package.json](nodejs/package.json) file will be created.
 
-## Add dependencies to package.json ##
+## Add dependencies to package.json - variant 1 ##
 Edit [package.json](nodejs/package.json) file, add the following lines
 
     "dependencies": {
@@ -43,7 +43,12 @@ before
 
     "author": "TODO",
 
-line, save file and exit from editor or just run
+line, save file, exit from editor and run in command-line/shell
+
+    npm install
+
+## Add dependencies to package.json - variant 2 ##
+Or just run in command-line/shell
 
     npm install mongodb --save
 
