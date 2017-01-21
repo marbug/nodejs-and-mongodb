@@ -52,5 +52,28 @@ Or just run in command-line/shell
 
     npm install mongodb --save
 
+## Add app.js ##
+Create [app.js](nodejs/app.js) file, add the following lines to it
+
+    var MongoClient = require('mongodb').MongoClient,
+        assert = require('assert');
+
+    // Connection URL
+    var url = 'mongodb://127.0.0.1:27017/myproject';
+    // Use connect method to connect to the Server
+    MongoClient.connect(url, function(err, db) {
+      assert.equal(null, err);
+      console.log("Connected correctly to server");
+
+      db.close();
+    });
+
+save file and exit from editor.
+
+## Run app.js ##
+Run in command-line/shell
+
+    node app.js
+
 ## TODO ##
 TODO
