@@ -1,7 +1,7 @@
 # Wanna to create from scratch? #
 
 ## Prepare MongoDB ##
-[Read here](MONGODB.md)
+Install and run MongoDB without auth. Please, [read here for more details](MONGODB.md).
 
 ## Create NodeJS directory ##
 Run in command-line or shell:
